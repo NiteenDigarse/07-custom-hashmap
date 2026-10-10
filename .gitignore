@@ -1,0 +1,29 @@
+# CMake build directory
+build/
+cmake-build-*/
+
+# Compiled executables and object files
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+
+# Debug symbols
+*.pdb
+*.ilk
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
